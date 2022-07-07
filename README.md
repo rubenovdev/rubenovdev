@@ -1,2 +1,2 @@
 ### :octocat: Frontend engineer (React)
-Avito ▫️ Tinkoff ▫️ Leroy Merlin ▫️ Flatplan
+Avito ▫️ Tinkoff ▫️ Leroy Merlin ▫️ HTML Academy ▫️ Flatplan
